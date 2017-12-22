@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.bck-color {
+  background-color: #AFD4C0;
+  /* display: flex; */
+  /* text-align: center; */
+  /* margin: auto; */
+}
+
+.white-box {
+  background-color: white;
+  /* width: 40em;
+  height: 100%; */
+  /* justify-content: center; */
+}
